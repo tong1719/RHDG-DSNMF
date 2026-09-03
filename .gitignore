@@ -1,0 +1,6 @@
+data/
+results/
+*.mat
+*.asv
+*.log
+*.csv
